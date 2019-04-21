@@ -44,7 +44,7 @@ dependencies {
     annotationProcessor 'com.github.bumptech.glide:compiler:4.9.0'
 //    implementation project(':gifdecode')
 
-    implementation(name: 'gifdecode-release', ext: 'aar')
+//    implementation(name: 'gifdecode-release', ext: 'aar')
 
-//    implementation 'com.github.Wzhixiang:FrameSequence:Tag'
+    implementation 'com.github.Wzhixiang:FrameSequence:1.0.0'
 }
