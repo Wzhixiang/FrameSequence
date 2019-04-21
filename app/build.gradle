@@ -45,4 +45,6 @@ dependencies {
 //    implementation project(':gifdecode')
 
     implementation(name: 'gifdecode-release', ext: 'aar')
+
+//    implementation 'com.github.Wzhixiang:FrameSequence:Tag'
 }
