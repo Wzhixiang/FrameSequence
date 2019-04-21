@@ -42,9 +42,9 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     implementation 'com.github.bumptech.glide:glide:4.9.0'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.9.0'
-//    implementation project(':gifdecode')
+    implementation project(':gifdecode')
 
 //    implementation(name: 'gifdecode-release', ext: 'aar')
 
-    implementation 'com.github.Wzhixiang:FrameSequence:1.0.0'
+//    implementation 'com.github.Wzhixiang:FrameSequence:1.0.0'
 }
