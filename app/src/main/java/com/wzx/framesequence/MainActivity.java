@@ -9,6 +9,10 @@ import com.wzx.framesequence.compare.FrameSequenceDecodeActivity;
 import com.wzx.framesequence.compare.GlideDefaultDecodeActivity;
 import com.wzx.framesequence.samples.FrameSequenceTest;
 
+/**
+ * 5.1不明显
+ * 8.0cpu明显降低
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
